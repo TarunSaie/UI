@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Product Sans';
+    src: url('ProductSans-Bold.eot');
+    src: url('ProductSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ProductSans-Bold.woff2') format('woff2'),
+        url('ProductSans-Bold.woff') format('woff'),
+        url('ProductSans-Bold.ttf') format('truetype'),
+        url('ProductSans-Bold.svg#ProductSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Product Sans';
+    src: url('ProductSans-Regular.eot');
+    src: url('ProductSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ProductSans-Regular.woff2') format('woff2'),
+        url('ProductSans-Regular.woff') format('woff'),
+        url('ProductSans-Regular.ttf') format('truetype'),
+        url('ProductSans-Regular.svg#ProductSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

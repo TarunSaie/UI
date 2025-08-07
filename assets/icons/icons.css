@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'dashboard';
+  src:  url('fonts/dashboard.eot?bpufo');
+  src:  url('fonts/dashboard.eot?bpufo#iefix') format('embedded-opentype'),
+    url('fonts/dashboard.ttf?bpufo') format('truetype'),
+    url('fonts/dashboard.woff?bpufo') format('woff'),
+    url('fonts/dashboard.svg?bpufo#dashboard') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dashboard' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-question-circle:before {
+  content: "\e906";
+}
+.icon-add:before {
+  content: "\e90d";
+}
+.icon-settings:before {
+  content: "\e90f";
+}
+.icon-file-text:before {
+  content: "\e901";
+}
+.icon-users:before {
+  content: "\e900";
+}
+.icon-download:before {
+  content: "\e903";
+}
+.icon-directions:before {
+  content: "\e91b";
+}
+.icon-database:before {
+  content: "\e904";
+}
+.icon-analytics:before {
+  content: "\e911";
+}
+.icon-location-pin:before {
+  content: "\e90e";
+}
+.icon-help-circle:before {
+  content: "\e90c";
+}
+.icon-route:before {
+  content: "\e918";
+}
+.icon-Calender-1:before {
+  content: "\e907";
+}
+.icon-car-crash:before {
+  content: "\e908";
+}
+.icon-folder:before {
+  content: "\e909";
+}
+.icon-caret-green:before {
+  content: "\e90a";
+}
+.icon-cars-35x35:before {
+  content: "\e90b";
+}
+.icon-filter-new:before {
+  content: "\e910";
+}
+.icon-icon1:before {
+  content: "\e912";
+}
+.icon-map-location-track-1:before {
+  content: "\e913";
+}
+.icon-map-pin-1:before {
+  content: "\e914";
+}
+.icon-phone-call-1:before {
+  content: "\e915";
+}
+.icon-plus-new:before {
+  content: "\e916";
+}
+.icon-refresh:before {
+  content: "\e917";
+}
+.icon-steering-35x35:before {
+  content: "\e919";
+}
+.icon-steering-wheel:before {
+  content: "\e91a";
+}
+.icon-logout:before {
+  content: "\e902";
+}
+.icon-arrow-up-right2:before {
+  content: "\ea3b";
+}
